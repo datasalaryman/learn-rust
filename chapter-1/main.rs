@@ -1,4 +1,5 @@
 // fn : defining a function
+// println!: print macro
 // println: print method
 fn main() { 
     println!("Hello, world!");
