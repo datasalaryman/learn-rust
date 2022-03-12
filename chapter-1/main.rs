@@ -7,5 +7,8 @@ fn main() {
 
 // To run: 
 // 
+// Compile step
 // $ rustc chapter-1/main.rs
+//
+// Run step
 // $ ./main
